@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[有傑克。Jack Yu]]></title>
-  <link href="http://welkineins.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: 公告 | 有傑克。Jack Yu]]></title>
+  <link href="http://welkineins.github.com/blog/categories/公告/atom.xml" rel="self"/>
   <link href="http://welkineins.github.com/"/>
   <updated>2012-09-02T00:48:00+08:00</updated>
   <id>http://welkineins.github.com/</id>
@@ -18,10 +18,10 @@
     <link href="http://welkineins.github.com/blog/2012/09/02/shou-fa-first-post/"/>
     <updated>2012-09-02T00:38:00+08:00</updated>
     <id>http://welkineins.github.com/blog/2012/09/02/shou-fa-first-post</id>
-    <content type="html"><![CDATA[<p>  It&#8217;s really happy that I have my own blog on github.com. Thanks to Octopress, it&#8217;s much earier to setup this blog. (even so there are some small problems need to be solved)
-  My another blog is hosted on Google&#8217;s blospot (blogger), http://welkineins.blogspot.tw/ . I&#8217;ll maintain both blog, but in different type of articles.</p>
+    <content type="html"><![CDATA[<p>  It's really happy that I have my own blog on github.com. Thanks to Octopress, it's much earier to setup this blog. (even so there are some small problems need to be solved)
+  My another blog is hosted on Google's blospot (blogger), http://welkineins.blogspot.tw/ . I'll maintain both blog, but in different type of articles.</p>
 
-<p>  不知道為什麼用英文寫了開頭，總之成功在 github 上面用 Octopress 架了一個 Blog，雖然步驟很少，但是有些不清楚的部分還是很容易出問題 (也可能是我沒有認真看&#8230;)。
+<p>  不知道為什麼用英文寫了開頭，總之成功在 github 上面用 Octopress 架了一個 Blog，雖然步驟很少，但是有些不清楚的部分還是很容易出問題 (也可能是我沒有認真看...)。
   我的另外一個 Blog 在 http://welkineins.blogspot.tw/ ，應該是未來的主力 Blog，但這裡也會繼續維護下去，主要應該是放更為技術性的文章，或是同步，我仍在思考中。希望能盡快有下一篇文章<sup>^!</sup></p>
 
 <p>Jack Yu</p>
