@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[有傑克。Jack Yu]]></title>
   <link href="http://welkineins.github.com/atom.xml" rel="self"/>
   <link href="http://welkineins.github.com/"/>
-  <updated>2012-09-01T23:58:50+08:00</updated>
+  <updated>2012-09-02T00:09:37+08:00</updated>
   <id>http://welkineins.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Jack Yu (Chieh Yu)]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
